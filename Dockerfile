@@ -1,5 +1,5 @@
 # using this awesome prebuild image:
-FROM 'pelatihanlaravel/php-7.3-nginx:cicd'
+FROM 'ibalmaulana9/php-7.3-nginx:cicd'
 MAINTAINER Robby Dwi <robbie.developer@gmail.com>
 
 # Install prestissimo for faster deps instalation 
